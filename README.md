@@ -14,9 +14,9 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Denise Case, Kim Hummel
 
-Date: 2026 October
+Date: 2026-10
 
 First project in the Web Mining and Applied NLP course.
 
