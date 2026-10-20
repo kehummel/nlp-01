@@ -180,7 +180,7 @@ ehthumbs.db
 # as project evidence.
 *.log
 logs/
-# !/project.log
+!/project.log
 
 
 # === Generic caches ===
