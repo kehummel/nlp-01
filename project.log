@@ -46,3 +46,47 @@
 2026-10-26 18:36:51 | INFO | CI | Pipeline executed successfully!
 2026-10-26 18:36:51 | INFO | CI | ========================
 2026-10-26 18:36:51 | INFO | CI | END main()
+2026-10-26 18:51:38 | INFO | CI | === RUN START ===
+2026-10-26 18:51:38 | INFO | CI | project=NLP
+2026-10-26 18:51:38 | INFO | CI | repo_dir=nlp-01
+2026-10-26 18:51:38 | INFO | CI | python=3.14.3
+2026-10-26 18:51:38 | INFO | CI | os=Windows 11
+2026-10-26 18:51:38 | INFO | CI | shell=powershell
+2026-10-26 18:51:38 | INFO | CI | cwd=.
+2026-10-26 18:51:38 | INFO | CI | github_actions=False
+2026-10-26 18:51:38 | INFO | CI | START script.....
+2026-10-26 18:51:38 | INFO | CI | ROOT_PATH = .
+2026-10-26 18:51:38 | INFO | CI | NOTEBOOKS_PATH = notebooks
+2026-10-26 18:51:38 | INFO | CI | SCRIPTS_PATH = scripts
+2026-10-26 19:00:29 | INFO | CI | === RUN START ===
+2026-10-26 19:00:29 | INFO | CI | project=NLP
+2026-10-26 19:00:29 | INFO | CI | repo_dir=nlp-01
+2026-10-26 19:00:29 | INFO | CI | python=3.14.3
+2026-10-26 19:00:29 | INFO | CI | os=Windows 11
+2026-10-26 19:00:29 | INFO | CI | shell=powershell
+2026-10-26 19:00:29 | INFO | CI | cwd=.
+2026-10-26 19:00:29 | INFO | CI | github_actions=False
+2026-10-26 19:00:29 | INFO | CI | START script.....
+2026-10-26 19:00:29 | INFO | CI | ROOT_PATH = .
+2026-10-26 19:00:29 | INFO | CI | NOTEBOOKS_PATH = notebooks
+2026-10-26 19:00:29 | INFO | CI | SCRIPTS_PATH = scripts
+2026-10-26 19:00:42 | INFO | CI | ========================
+2026-10-26 19:00:42 | INFO | CI | Pipeline executed successfully!
+2026-10-26 19:00:42 | INFO | CI | ========================
+2026-10-26 19:00:42 | INFO | CI | END main()
+2026-10-26 19:05:56 | INFO | CI | === RUN START ===
+2026-10-26 19:05:56 | INFO | CI | project=NLP
+2026-10-26 19:05:56 | INFO | CI | repo_dir=nlp-01
+2026-10-26 19:05:56 | INFO | CI | python=3.14.3
+2026-10-26 19:05:56 | INFO | CI | os=Windows 11
+2026-10-26 19:05:56 | INFO | CI | shell=powershell
+2026-10-26 19:05:56 | INFO | CI | cwd=.
+2026-10-26 19:05:56 | INFO | CI | github_actions=False
+2026-10-26 19:05:56 | INFO | CI | START script.....
+2026-10-26 19:05:56 | INFO | CI | ROOT_PATH = .
+2026-10-26 19:05:56 | INFO | CI | NOTEBOOKS_PATH = notebooks
+2026-10-26 19:05:56 | INFO | CI | SCRIPTS_PATH = scripts
+2026-10-26 19:14:27 | INFO | CI | ========================
+2026-10-26 19:14:27 | INFO | CI | Pipeline executed successfully!
+2026-10-26 19:14:27 | INFO | CI | ========================
+2026-10-26 19:14:27 | INFO | CI | END main()
