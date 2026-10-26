@@ -75,3 +75,7 @@ corpus exploration, and natural language processing.
 - [Project Instructions](project-instructions.md)
 - [Professional Python Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Professional Python Project Explainer](https://pup-pack.github.io/professional-python-project-explainer/)
+
+## Project Applied - Workflow Parts D & E
+
+- [Documentation for Workflow D & E](/docs/D_E_index.md)
