@@ -26,4 +26,4 @@ Next steps would be to remove the words that are not specific to the text and se
 
 ![Pitbull Bar Graph](/docs/images/pitbull_bargraph.png)
 
-![Pitbull Word Cloud](/docs/images/pitbull_wordcloud.png.png)
+![Pitbull Word Cloud](/docs/images/pitbull_wordcloud.png)
